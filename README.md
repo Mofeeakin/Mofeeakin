@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Moferanoluwa Akinola!  
+# Hi, I'm Moferanoluwa Akinola!  
 
-## 📊 Data Analyst | Finance & Market Intelligence | SQL | Python | Power BI | Excel  
+## Data Analyst | Finance & Market Intelligence | SQL | Python | Power BI | Excel  
 
 Welcome to my GitHub profile! I am a results-driven data analyst with a background in finance, market intelligence, and energy economics. I specialise in transforming raw data into meaningful insights that drive business decisions. My expertise spans data analysis, financial modelling, market forecasting, and project controls, with hands-on experience in Python, SQL, Excel, and Power BI.  
 
 ---
 
-## 🛠️ Technical Skills  
+## Technical Skills  
 - **Data Analysis & Visualization**: Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Excel, SQL  
 - **Business Intelligence**: Financial analysis, portfolio monitoring, KPI tracking  
 - **Data Processing & ETL**: SQL queries, data cleaning, data transformation  
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a results-driven data analyst with a backgrou
 
 ---
 
-## 📌 Work Experience  
+##  Work Experience  
 
 ### **🔹 Financial Analyst | Atiat Limited (2024 – Present)**  
 - Analyzing financial data trends to support decision-making in leasing and lending.  
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I am a results-driven data analyst with a backgrou
 
 ---
 
-## 🎓 Education & Certifications  
+##  Education & Certifications  
 
 - **MSc International Energy Studies & Energy Economics** – *University of Dundee (2021 – 2022)*  
   - Specialized in **Business Analytics, Low Carbon Transition Economics, and Commodity Trading**.  
@@ -40,15 +40,15 @@ Welcome to my GitHub profile! I am a results-driven data analyst with a backgrou
 
 - **BSc Geology** – *Afe Babalola University (2015 – 2018)*  
 
-- **📜 Data Analysis Certification** *(In View)* – *IJAN Africa*  
+- **Data Analysis Certification** *(In View)* – *IJAN Africa*  
   - Proficiency in **Excel, Python, SQL, Power BI** for business intelligence.  
 
-- **🤖 Generative AI Specialist Course** *(In View)*  
+- **Generative AI Specialist Course** *(In View)*  
   - Exploring **AI-driven predictive modelling, NLP, and automation**.  
 
 ---
 
-## 🚀 Projects  
+## Projects  
 
 🔹 **[Portfolio Performance Tracker](#)** – Analyzed leasing & lending data using **SQL and Power BI** to optimize financial decisions.  
 🔹 **[Market Trend Dashboard](#)** – Developed an interactive dashboard for **oil price forecasting** using Python & Power BI.  
@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I am a results-driven data analyst with a backgrou
 
 ---
 
-## 📫 Let's Connect!  
+## Let's Connect!  
 
 - **Email**: [akinolamofe2@gmail.com](mailto:akinolamofe2@gmail.com)  
 - **LinkedIn**: [www.linkedin.com/in/mofe-akinola-6a8934160](#)  
