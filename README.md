@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a results-driven data analyst with a backgrou
 
 ---
 
-##  Work Experience  
+## Work Experience  
 
 ### **🔹 Financial Analyst | Atiat Limited (2024 – Present)**  
 - Analyzing financial data trends to support decision-making in leasing and lending.  
@@ -32,11 +32,11 @@ Welcome to my GitHub profile! I am a results-driven data analyst with a backgrou
 
 ---
 
-##  Education & Certifications  
+## Education & Certifications  
 
 - **MSc International Energy Studies & Energy Economics** – *University of Dundee (2021 – 2022)*  
   - Specialized in **Business Analytics, Low Carbon Transition Economics, and Commodity Trading**.  
-  - Built **regression models in RStudio** to analyze energy markets.  
+  - Built **regression models in RStudio** to analyse energy markets.  
 
 - **BSc Geology** – *Afe Babalola University (2015 – 2018)*  
 
@@ -50,13 +50,11 @@ Welcome to my GitHub profile! I am a results-driven data analyst with a backgrou
 
 ## Projects  
 
-🔹 **[Portfolio Performance Tracker](#)** – Analyzed leasing & lending data using **SQL and Power BI** to optimize financial decisions.  
-🔹 **[Market Trend Dashboard](#)** – Developed an interactive dashboard for **oil price forecasting** using Python & Power BI.  
-🔹 **[Predictive Loan Default Model](#)** – Built a **machine learning model** to assess credit risk using financial datasets.  
-🔹 **[Automated Financial Reports](#)** – Created an **Excel VBA automation** for monthly financial reporting.  
-
-*(More projects coming soon!)*  
-
+🔹 **[Loan-Analysis](#)** – Built an interactive dashboard using **Power BI** to track loan disbursement, recovery rates, and outstanding balances.  
+🔹 **[Sleep-Disorder-Analysis](#)** – Analyzed sleep patterns, stress levels, and physical activity using **Power BI** to identify trends and insights on sleep disorders.  
+🔹 **[US-Renewable-Consumption](#)** – Examined trends in **renewable energy consumption** across the US, leveraging **SQL and Python** for data processing and visualization.  
+🔹 **[Furniture-Sales-and-Revenue-Analysis](#)** – Developed a **business intelligence dashboard** to analyze revenue trends, sales performance, and customer insights in the furniture industry. 
+ 
 ---
 
 ## Let's Connect!  
