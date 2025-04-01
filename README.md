@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I am a results-driven data analyst with a backgrou
 ## Let's Connect!  
 
 - **Email**: [akinolamofe2@gmail.com](mailto:akinolamofe2@gmail.com)  
-- **LinkedIn**: [www.linkedin.com/in/mofe-akinola-6a8934160](#)  
-- **GitHub**: [https://github.com/Mofeeakin](#)  
+- **LinkedIn**: [www.linkedin.com/in/mofe-akinola-6a8934160](https://www.linkedin.com/in/mofe-akinola-6a8934160)
+- **GitHub**: [https://mofeeakin.github.io/MofeAkinola.github.io/](https://mofeeakin.github.io/MofeAkinola.github.io/)
 
 I’m always open to collaborations on **data-driven projects, business intelligence, and AI applications**. Let’s build something impactful! 🚀  
