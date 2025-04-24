@@ -16,19 +16,19 @@ Welcome! I'm a forward-thinking analyst passionate about the intersection of **d
 
 ## Experience Highlights
 
-** Junior Financial Analyst** — *Atiat Limited, Nigeria* (2024–2025)  
+**Junior Financial Analyst** — *Atiat Limited, Nigeria* (2024–2025)  
 - Modeled inflation & FX impacts on ROA & PAT; conducted revenue performance analysis.  
 
-** Project Controls Assistant** — *Linesight, UK* (2023–2024)  
+**Project Controls Assistant** — *Linesight, UK* (2023–2024)  
 - Developed tracking dashboards; cut project delays by 20%.  
 
-** Market Intelligence Intern** — *NNPC, UK* (2021)  
+**Market Intelligence Intern** — *NNPC, UK* (2021)  
 - Delivered global oil trend analysis, improving price forecast accuracy by 10%.  
 
-** Junior Exploration Geologist** — *Pan Ocean Oil* (2019)  
+**Junior Exploration Geologist** — *Pan Ocean Oil* (2019)  
 - Built geological models and integrated ArcGIS Pro to boost efficiency by 25%.  
 
-** Junior Operations Manager** — *Multiserve Ltd.* (2017)  
+**Junior Operations Manager** — *Multiserve Ltd.* (2017)  
 - Managed borehole and wastewater projects; reduced cost overruns by 30%.  
 
 ---
