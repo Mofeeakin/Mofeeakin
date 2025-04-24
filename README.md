@@ -68,7 +68,8 @@ Welcome! I'm a forward-thinking analyst passionate about the intersection of **d
 🔹 **[Loan-Analysis](#)** – Built an interactive dashboard using **Power BI** to track loan disbursement, recovery rates, and outstanding balances.  
 🔹 **[Sleep-Disorder-Analysis](#)** – Analyzed sleep patterns, stress levels, and physical activity using **Power BI** to identify trends and insights on sleep disorders.  
 🔹 **[US-Renewable-Consumption](#)** – Examined trends in **renewable energy consumption** across the US, leveraging **SQL and Python** for data processing and visualization.  
-🔹 **[Furniture-Sales-and-Revenue-Analysis](#)** – Developed a **business intelligence dashboard** to analyze revenue trends, sales performance, and customer insights in the furniture industry. 
+🔹 **[Furniture-Sales-and-Revenue-Analysis](#)** – Developed a **business intelligence dashboard** to analyze revenue trends, sales performance, and customer insights in the furniture industry.
+
 🔹 **[Financial-Performance-Analysis](#)** – Developed a dynamic **financial analysis dashboard** to evaluate profitability, revenue growth, and performance ratios (e.g., PAT, ROA, ROE).
  
 ---
