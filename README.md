@@ -1,4 +1,4 @@
-- # I’m Mofe Akinola
+# I’m Mofe Akinola
 
 ### Analyst & Energy Economist | Data Analytics • AI Automation • Financial Intelligence  
 
