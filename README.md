@@ -1,6 +1,6 @@
-- # 👋 Hi, I’m Moferanoluwa Akinola
+- # I’m Mofe Akinola
 
-### Aspiring Analyst & Energy Economist | Data Analytics • AI Automation • Financial Intelligence  
+### Analyst & Energy Economist | Data Analytics • AI Automation • Financial Intelligence  
 
 Welcome! I'm a forward-thinking analyst passionate about the intersection of **data, automation, and intelligent systems**. With experience across **finance, energy economics, market intelligence**, and **project controls**, I leverage tools like Python, Power BI, SQL, and emerging AI technologies to drive insights and innovation.
 
