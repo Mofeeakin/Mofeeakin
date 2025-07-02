@@ -37,10 +37,7 @@ I'm a forward-thinking analyst passionate about the intersection of **data, auto
 
 🔹 **[Financial-Performance-Analysis](#)** – Developed a dynamic **financial analysis dashboard** to evaluate profitability, revenue growth, and performance ratios (e.g., PAT, ROA, ROE).
 
-🔹 ** Energy-Prediction-App – 
-
-Developed a predictive web application using Streamlit and Scikit-learn to forecast renewable energy consumption across. https://energy-prediction-app-va.streamlit.app/
----
+🔹 ** Energy-Prediction-App - Developed a predictive web application using streamlit and scikit-learn to forcast renewable energy consumption across sectors- https://energy-prediction-app-va.streamlit.app/ ---
 
 ## Let's Connect!  
 
