@@ -36,6 +36,7 @@ I'm a forward-thinking analyst passionate about the intersection of **data, auto
 🔹 **[Furniture-Sales-and-Revenue-Analysis](#)** – Developed a **business intelligence dashboard** to analyze revenue trends, sales performance, and customer insights in the furniture industry.
 
 🔹 **[Financial-Performance-Analysis](#)** – Developed a dynamic **financial analysis dashboard** to evaluate profitability, revenue growth, and performance ratios (e.g., PAT, ROA, ROE).
+
 🔹 ** Energy-Prediction-App – Developed a predictive web application using Streamlit and Scikit-learn to forecast renewable energy consumption across sectors. https://energy-prediction-app-va.streamlit.app/
 ---
 
