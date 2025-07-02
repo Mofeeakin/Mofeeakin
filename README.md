@@ -1,8 +1,8 @@
 # I’m Mofe Akinola
 
-### Analyst & Energy Economist | Data Analytics • AI Automation • Financial Intelligence  
+### AI Engineer & Energy Economist 
 
-Welcome! I'm a forward-thinking analyst passionate about the intersection of **data, automation, and intelligent systems**. With experience across **finance, energy economics, market intelligence**, and **project controls**, I leverage tools like Python, Power BI, SQL, and emerging AI technologies to drive insights and innovation.
+I'm a forward-thinking analyst passionate about the intersection of **data, automation, and intelligent systems**. With experience across **finance, energy economics, market intelligence**, and **project controls**, I leverage tools like Python, Power BI, SQL, and emerging AI technologies to drive insights and innovation.
 
 ---
 ## Technical Skills  
@@ -12,24 +12,6 @@ Welcome! I'm a forward-thinking analyst passionate about the intersection of **d
 - **Predictive Modeling**: Regression analysis, forecasting, business analytics  
 - **Project Management**: Primavera P6, Agile methodologies, risk management  
 - **AI & Automation**: Generative AI, NLP, machine learning frameworks (In View)
----
-
-## Experience Highlights
-
-**Junior Financial Analyst** — *Atiat Limited, Nigeria* (2024–2025)  
-- Modeled inflation & FX impacts on ROA & PAT; conducted revenue performance analysis.  
-
-**Project Controls Assistant** — *Linesight, UK* (2023–2024)  
-- Developed tracking dashboards; cut project delays by 20%.  
-
-**Market Intelligence Intern** — *NNPC, UK* (2021)  
-- Delivered global oil trend analysis, improving price forecast accuracy by 10%.  
-
-**Junior Exploration Geologist** — *Pan Ocean Oil* (2019)  
-- Built geological models and integrated ArcGIS Pro to boost efficiency by 25%.  
-
-**Junior Operations Manager** — *Multiserve Ltd.* (2017)  
-- Managed borehole and wastewater projects; reduced cost overruns by 30%.  
 
 ---
 
@@ -43,23 +25,6 @@ Welcome! I'm a forward-thinking analyst passionate about the intersection of **d
 **BSc – Geology**  
 *Afe Babalola University*  
 
----
-
-##  Certifications  
-
-- **AI & Automation Specialist** – Transformation College  
-- **Data Analysis Certification** – IJAN Africa  
-- **Generative AI Specialist Course** – Transformation College  
-- *In Progress*: PyTorch for Deep Learning • Financial Analytics • Data Science Mastery 2025  
-
----
-
-##  Key Projects  
-
-**🔹 AI Entertainment Article App (EAA)**  
-- Automated article generation using **DeepSeek**, **Supabase**, and **Google Docs**  
-- Developed a RAG pipeline for stylistic consistency using past embeddings  
-- Integrated comment-based sentiment analysis for optimization
   
 ---
 
@@ -71,7 +36,7 @@ Welcome! I'm a forward-thinking analyst passionate about the intersection of **d
 🔹 **[Furniture-Sales-and-Revenue-Analysis](#)** – Developed a **business intelligence dashboard** to analyze revenue trends, sales performance, and customer insights in the furniture industry.
 
 🔹 **[Financial-Performance-Analysis](#)** – Developed a dynamic **financial analysis dashboard** to evaluate profitability, revenue growth, and performance ratios (e.g., PAT, ROA, ROE).
- 
+🔹 ** Energy-Prediction-App – Developed a predictive web application using Streamlit and Scikit-learn to forecast renewable energy consumption across sectors. https://energy-prediction-app-va.streamlit.app/
 ---
 
 ## Let's Connect!  
