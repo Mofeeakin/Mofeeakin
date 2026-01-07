@@ -29,7 +29,8 @@ I'm a forward-thinking analyst passionate about the intersection of **data, auto
 ---
 
 ## Projects  
-
+🔹 **[Oil & Gas Intelligence Platform — Operational & Geospatial Analytics](#)** – multi-agent platform delivering production trends, incident/spill analysis, geospatial risk heatmaps, asset insights, ESG signals, and weather-linked risk indicators.
+🔹 **[Pinsure — AI-Powered Insurance Analytics Platform](#)** – Engineered modular services for underwriting, claims intake, pricing, fraud detection, and portfolio analytics using agent-based orchestration.
 🔹 **[Loan-Analysis](#)** – Built an interactive dashboard using **Power BI** to track loan disbursement, recovery rates, and outstanding balances.  
 🔹 **[Sleep-Disorder-Analysis](#)** – Analyzed sleep patterns, stress levels, and physical activity using **Power BI** to identify trends and insights on sleep disorders.  
 🔹 **[US-Renewable-Consumption](#)** – Examined trends in **renewable energy consumption** across the US, leveraging **SQL and Python** for data processing and visualization.  
@@ -37,7 +38,7 @@ I'm a forward-thinking analyst passionate about the intersection of **data, auto
 
 🔹 **[Financial-Performance-Analysis](#)** – Developed a dynamic **financial analysis dashboard** to evaluate profitability, revenue growth, and performance ratios (e.g., PAT, ROA, ROE).
 
-🔹 ** Energy-Prediction-App - Developed a predictive web application using streamlit and scikit-learn to forcast renewable energy consumption across sectors- https://energy-prediction-app-va.streamlit.app/ ---
+🔹 ** Energy-Prediction-App - Developed a predictive web application using streamlit and scikit-learn to forcast renewable energy consumption across sectors- https://energy-prediction-app-va.streamlit.app/
 
 ## Let's Connect!  
 
@@ -45,4 +46,4 @@ I'm a forward-thinking analyst passionate about the intersection of **data, auto
 - **LinkedIn**: [www.linkedin.com/in/mofe-akinola-6a8934160](https://www.linkedin.com/in/mofe-akinola-6a8934160)
 - **GitHub**: [https://mofeeakin.github.io/MofeAkinola.github.io/](https://mofeeakin.github.io/MofeAkinola.github.io/)
 
-I’m always open to collaborations on **data-driven projects, business intelligence, and AI applications**. Let’s build something impactful! 🚀  
+I’m always open to collaborations on **data-driven projects, business intelligence, and AI applications**.
