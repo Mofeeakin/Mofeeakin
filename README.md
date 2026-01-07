@@ -2,16 +2,16 @@
 
 ### AI Engineer & Energy Analyst/Economist
 
-I'm a forward-thinking analyst passionate about the intersection of **data, automation, and intelligent systems**. With experience across **finance, energy economics, market intelligence**, and **project controls**, I leverage tools like Python, Power BI, SQL, and emerging AI technologies to drive insights and innovation.
+I'm an analyst passionate about the intersection of **data, automation, and intelligent systems**. With experience across **finance, energy economics, market intelligence, AI Engineering**, and **project controls**, I leverage tools like Python, Power BI, SQL, and emerging AI technologies to drive insights and innovation.
 
 ---
 ## Technical Skills  
-- **Data Analysis & Visualization**: Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Excel, SQL  
-- **Business Intelligence**: Financial analysis, portfolio monitoring, KPI tracking  
-- **Data Processing & ETL**: SQL queries, data cleaning, data transformation  
-- **Predictive Modeling**: Regression analysis, forecasting, business analytics  
-- **Project Management**: Primavera P6, Agile methodologies, risk management  
-- **AI & Automation**: Generative AI, NLP, machine learning frameworks (In View)
+Technical Skills
+•	AI & ML: Python (Pandas, NumPy, Scikit-learn), Azure AI Services, Generative AI, Cognitive Search, RAG, Docker, FastAPI, React.
+•	Data & Geospatial: SQL, Power BI, ArcGIS, Petrel, Data Modeling
+•	Analytics & Forecasting: Regression, Time-series, Market & Financial Analysis, Renewable modeling.
+•	Project & Business Tools: Primavera P6, Microsoft Office, Budgeting, Risk Management, Power BI.
+•	Web: HTML, WordPress.
 
 ---
 
@@ -34,9 +34,13 @@ I'm a forward-thinking analyst passionate about the intersection of **data, auto
 🔹 **[Pinsure — AI-Powered Insurance Analytics Platform](#)** – Engineered modular services for underwriting, claims intake, pricing, fraud detection, and portfolio                analytics using agent-based orchestration.
 
 🔹 **[Loan-Analysis](#)** – Built an interactive dashboard using **Power BI** to track loan disbursement, recovery rates, and outstanding balances.  
+
 🔹 **[Sleep-Disorder-Analysis](#)** – Analyzed sleep patterns, stress levels, and physical activity using **Power BI** to identify trends and insights on sleep disorders.  
+
 🔹 **[US-Renewable-Consumption](#)** – Examined trends in **renewable energy consumption** across the US, leveraging **SQL and Python** for data processing and                     visualization.  
+
 🔹 **[Furniture-Sales-and-Revenue-Analysis](#)** – Developed a **business intelligence dashboard** to analyze revenue trends, sales performance, and customer insights in the       furniture industry.
+
 🔹 **[Financial-Performance-Analysis](#)** – Developed a dynamic **financial analysis dashboard** to evaluate profitability, revenue growth, and performance ratios (e.g.,          PAT, ROA, ROE).
 
 🔹 **[Energy-Prediction-App](#)** - Developed a predictive web application using streamlit and scikit-learn to forcast renewable energy consumption across sectors
