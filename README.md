@@ -6,12 +6,11 @@ I'm an analyst passionate about the intersection of **data, automation, and inte
 
 ---
 ## Technical Skills  
-Technical Skills
-•	AI & ML: Python (Pandas, NumPy, Scikit-learn), Azure AI Services, Generative AI, Cognitive Search, RAG, Docker, FastAPI, React.
-•	Data & Geospatial: SQL, Power BI, ArcGIS, Petrel, Data Modeling
-•	Analytics & Forecasting: Regression, Time-series, Market & Financial Analysis, Renewable modeling.
-•	Project & Business Tools: Primavera P6, Microsoft Office, Budgeting, Risk Management, Power BI.
-•	Web: HTML, WordPress.
+  **AI & ML:** Python (Pandas, NumPy, Scikit-learn), Azure AI Services, Generative AI, Cognitive Search, RAG, Docker, FastAPI, React.
+  **Data & Geospatial:** SQL, Power BI, ArcGIS, Petrel, Data Modeling
+  **Analytics & Forecasting:** Regression, Time-series, Market & Financial Analysis, Renewable modeling.
+  **Project & Business Tools:** Primavera P6, Microsoft Office, Budgeting, Risk Management, Power BI.
+  **Web:** HTML, WordPress.
 
 ---
 
