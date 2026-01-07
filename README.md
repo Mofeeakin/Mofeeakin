@@ -1,6 +1,6 @@
 # I’m Mofe Akinola
 
-### AI Engineer & Energy Economist 
+### AI Engineer & Energy Analyst/Economist
 
 I'm a forward-thinking analyst passionate about the intersection of **data, automation, and intelligent systems**. With experience across **finance, energy economics, market intelligence**, and **project controls**, I leverage tools like Python, Power BI, SQL, and emerging AI technologies to drive insights and innovation.
 
