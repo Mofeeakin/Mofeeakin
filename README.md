@@ -1,4 +1,4 @@
-# I’m Mofe Akinola
+# Mofe Akinola
 
 ### AI Engineer & Energy Analyst/Economist
 
